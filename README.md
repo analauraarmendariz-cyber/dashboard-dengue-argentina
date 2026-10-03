@@ -51,7 +51,7 @@ Este proyecto integra herramientas de **minería de datos, cartografía interact
 ## 📁 Estructura del Repositorio
 
 ```text
-├── datos/
+├── DATOS/
 │   ├── informacion-publica-dengue-zika-nacional-se-1-2025-a-se38-2026-2026-10-05.csv
 │   └── poblacion_provincias_2025.csv
 ├── dashboard_dengue_estatico.qmd   # Código fuente del dashboard en Quarto
