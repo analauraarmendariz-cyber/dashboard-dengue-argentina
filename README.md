@@ -2,7 +2,7 @@
 
 Un tablero de control interactivo y reporte de análisis epidemiológico sobre la dinámica de transmisión del Dengue en Argentina, desarrollado en **R** y compilado de forma nativa con **Quarto Dashboards**.
 
-🔗 **Ver Dashboard Interactivo en vivo:** [Explorar Tablero Web](https://tu-usuario.github.io/dashboard-dengue-argentina/) *(reemplazá este enlace por tu URL de GitHub Pages)*
+🔗 **Ver Dashboard Interactivo en vivo:** [Explorar Tablero Web]([https://tu-usuario.github.io/dashboard-dengue-argentina/](https://analauraarmendariz-cyber.github.io/dashboard-dengue-argentina/)
 
 ---
 
