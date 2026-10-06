@@ -64,7 +64,7 @@ Este proyecto integra herramientas de **procesamiento de datos epidemiológicos,
 
 ## 👤 Autora
 **Dra. Ana Laura Armendáriz**  
-*Microbióloga | Especialista en Bioestadística y Análisis de Datos*  
+*Microbióloga | Especialista en Bioestadística y Bioinformática*  
 - GitHub: [analauraarmendariz-cyber](https://github.com/analauraarmendariz-cyber)  
 - LinkedIn: [Perfil Profesional](https://www.linkedin.com/in/ana-laura-armendariz-12499148/)
 
