@@ -1,8 +1,10 @@
 # 📊 Dashboard Epidemiológico: Vigilancia de Dengue en Argentina
 
-Un tablero de control interactivo y reporte de análisis epidemiológico sobre la dinámica de transmisión del Dengue en Argentina, desarrollado en **R** y compilado de forma nativa con **Quarto Dashboards**.
+![R](https://img.shields.io/badge/R-4.x-blue?logo=r)
+![Quarto](https://img.shields.io/badge/Quarto-1.10.18-purple?logo=quarto)
+![Status](https://img.shields.io/badge/Status-Completado-success)
 
-🔗 **Ver Dashboard Interactivo en vivo: [Explorar Tablero Web](https://analauraarmendariz-cyber.github.io/dashboard-dengue-argentina/) **
+🔗 **[Ver Dashboard Interactivo en Vivo](https://analauraarmendariz-cyber.github.io/dashboard-dengue-argentina/)**
 
 ---
 
@@ -40,11 +42,10 @@ Este proyecto integra herramientas de **minería de datos, cartografía interact
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
-* **Lenguaje:** R 4.5.x
-* **Entorno de Publicación:** Quarto Dashboard (`.qmd`)
-* **Procesamiento de Datos:** `tidyverse`, `janitor`, `broom`
-* **Geoprocesamiento y Mapas:** `sf`, `geoAr`, `leaflet`
-* **Visualización Interactiva:** `plotly`, `DT`
+- **Lenguaje / Entorno:** R 4.5.x / Quarto Dashboard
+- **Procesamiento de Datos:** `tidyverse`, `janitor`, `broom`
+- **Geoprocesamiento y Mapas:** `sf`, `geoAr`, `leaflet`
+- **Visualización Interactiva:** `plotly`, `DT`
 
 ---
 
