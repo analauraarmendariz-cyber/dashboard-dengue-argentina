@@ -61,6 +61,7 @@ Este proyecto integra herramientas de **procesamiento de datos epidemiológicos,
 
 ---
 
+
 ## 👤 Autora
 **Dra. Ana Laura Armendáriz**  
 *Microbióloga | Especialista en Bioestadística y Análisis de Datos*  
