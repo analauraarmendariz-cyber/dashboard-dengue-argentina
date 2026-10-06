@@ -67,3 +67,5 @@ Este proyecto integra herramientas de **procesamiento de datos epidemiológicos,
 *Microbióloga | Especialista en Bioestadística y Análisis de Datos*  
 - GitHub: [analauraarmendariz-cyber](https://github.com/analauraarmendariz-cyber)  
 - LinkedIn: [Perfil Profesional](https://www.linkedin.com/in/ana-laura-armendariz-12499148/)
+
+---
