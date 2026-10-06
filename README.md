@@ -8,7 +8,7 @@
 
 ---
 
-# 📌 Descripción del Proyecto
+## 📌 Descripción del Proyecto
 
 Este proyecto integra herramientas de **procesamiento de datos epidemiológicos, cartografía interactiva y bioestadística inferencial** a partir de los registros del Sistema Nacional de Vigilancia de la Salud (SNVS). Su objetivo es caracterizar la propagación espacio-temporal del brote, analizar las tasas de incidencia por 100.000 habitantes y evaluar perfiles de riesgo específicos, como la notificación de casos en población gestante.
 
@@ -58,7 +58,7 @@ Este proyecto integra herramientas de **procesamiento de datos epidemiológicos,
 ├── dashboard_dengue_estatico.qmd   # Código fuente del dashboard en Quarto
 ├── index.html                       # Documento HTML renderizado para GitHub Pages
 └── README.md                        # Documentación del proyecto
-
+```
 ---
 
 
